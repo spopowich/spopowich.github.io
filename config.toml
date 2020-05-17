@@ -2,3 +2,8 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Sam Popowich, MLIS, MA"
 theme="hello-friend-ng"
+
+[[menu.main]]
+  identifier = "publications"
+  name = "Publications"
+  url = "/publications"
