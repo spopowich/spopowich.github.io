@@ -17,6 +17,6 @@ theme="hello-friend-ng"
   url = "/publications"
 
 [[menu.main]]
-  identifier = "cv"
-  name = "CV"
-  url = "/cv"
+  identifier = "resume"
+  name = "Resume"
+  url = "/resume"
