@@ -1,10 +1,10 @@
 ---
 title: "Confronting the Democratic Discourse of Librarianship (2019)"
 date: 2020-05-17T16:55:09-06:00
-draft: true
+draft: false
 ---
 
-![CDDL Cover](/cddl.jpg)
+![CDDL Cover](/img/cddl.jpg)
 
 [*Sacramento: Library Juice Press,
 2019*](https://litwinbooks.com/books/confronting-the-democratic-discourse-of-librarianship/)

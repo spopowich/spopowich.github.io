@@ -3,7 +3,20 @@ languageCode = "en-us"
 title = "Sam Popowich, MLIS, MA"
 theme="hello-friend-ng"
 
+[params]
+  defaultTheme = "light"
+
+[[menu.main]]
+  identifer = "blog"
+  name = "Blog"
+  url = "http://redlibrarian.github.io"
+
 [[menu.main]]
   identifier = "publications"
   name = "Publications"
   url = "/publications"
+
+[[menu.main]]
+  identifier = "cv"
+  name = "CV"
+  url = "/cv"
