@@ -19,4 +19,8 @@ Taking a broadly Marxist approach, Confronting the Democratic Discourse of Libra
 (2020)](https://www.pathfinderjournal.ca/index.php/pathfinder/article/view/24/8). *Pathfinder: A Canadian Journal for Information
 Science Students and Early Career Professionals* 1(2): 68-71.
 
+[Lisa Engström 
+(2020)](https://foreningenbis.com/2020/05/13/framjar-bibliotek-verkligen-demokrati/).
+*Bibliotek i Samhälle: Biblioteksdebatt från
+vänster*, May 13, 2020. (Swedish)
 
